@@ -1,0 +1,12 @@
+{
+  "name": "example-task",
+  "version": "1.0.0",
+  "description": "Example task solution",
+  "private": false,
+  "scripts": {
+    "test": "testcafe firefox tests"
+  },
+  "dependencies": {
+    "testcafe": "^1.14.0"
+  }
+}
